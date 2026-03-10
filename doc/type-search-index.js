@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"view","l":"Console"},{"p":"controller","l":"Controller"},{"p":"controller","l":"Main"},{"p":"model","l":"Prisma"},{"p":"model","l":"PrismaManager"}];updateSearchResults();
